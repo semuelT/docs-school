@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+tags:
+  - Homepage
+title: Welcome! These are my Notes 📘
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Semua Catatan
+```dataview
+TABLE rows.file.link as File, rows.file.folder as Lokasi
+group by tags
+sort area asc
+```
