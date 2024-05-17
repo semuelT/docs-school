@@ -1,6 +1,7 @@
 ---
 tags:
   - Catatan
+title: Psudocode
 ---
 Psudocode *(kode semu)* adalah suatu bahasa buatan manusia yang sifatnya informal sebagai representasi algoritma. *Psudocode* dibuat untuk menutupi kekurangan [[./Diagram alir|Diagram alir]] dalam merepresentasikan konsep konsep pemrograman ter-struktur. *Psudocode* memungkinkan representasi langkah langkah yang lebih detail dan dekat bahasa pemrograman. *Psudocode* menggunakan sistem pernyataan per baris dan indentasi untuk menunjukan struktur.
 
