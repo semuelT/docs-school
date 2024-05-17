@@ -8,8 +8,9 @@ Psudocode *(kode semu)* adalah suatu bahasa buatan manusia yang sifatnya informa
 ## Aktivitas Terkait
 ![[../Media/Aktivitas AP-K10-01-U.png|Aktivitas AP-K10-01-U.png]]
 ## Kasus Penggunaan:
-	Mesin Pembayaran Bakso
-`Diagram Alir`
+```
+Mesin Pembayaran Bakso
+```
 ```mermaid
 flowchart TB
 	in([START]) --> re["BACA Jumlah Uang dan Total Bayar"] 
