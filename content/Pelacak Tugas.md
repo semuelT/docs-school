@@ -1,3 +1,8 @@
+---
+tags:
+  - main
+---
+
 - - -
 ```button
 name Buat Tugas
