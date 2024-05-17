@@ -1,7 +1,7 @@
 ---
 tags:
   - Tugas
-selesai: true
+selesai: false
 tanggal-selesai: 
 deadline: 2024-05-24
 mapel: Informatika
