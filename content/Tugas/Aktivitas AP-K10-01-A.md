@@ -1,8 +1,8 @@
 ---
 tags:
   - Tugas
-selesai: false
-tanggal-selesai: 
+selesai: true
+tanggal-selesai: 2024-05-22
 deadline: 2024-05-24
 mapel: Informatika
 ---
@@ -10,9 +10,10 @@ mapel: Informatika
 - [x] Hitunglah luas permukaan sebuah kubus yang memiliki panjang sisi 20 cm dengan menggunakan diagram alir pada contoh kedua.
 - [x] Hitunglah dua buah operasi pembagian berikut dengan menggunakan diagram alir pada contoh kedua. Pertama, pembagi bernilai 10 dan penyebut bernilai 2. Kedua, pembagi bernilai 8 dan penyebut bernilai 0.
 - [x] Lakukan hitung mundur dari angka 5 hingga 1 dengan menelusuri diagram alir keempat.
-- [ ] Carilah bilangan terbesar dari 7 bilangan berikut: 3, 1, 2, 4, 5, 7, dan 9 dengan menggunakan diagram alir ke-lima.
+- [x] Carilah bilangan terbesar dari 7 bilangan berikut: 3, 1, 2, 4, 5, 7, dan 9 dengan menggunakan diagram alir ke-lima.
 ## Lampiran
-- [Informatika Kelas 10](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Informatika-BS-KLS-X.pdf) Bab 7. Algoritma dan Pemrograman, Aktivitas AP-K10-01-A. 
+- [Informatika Kelas 10](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Informatika-BS-KLS-X.pdf) Bab 7. Algoritma dan Pemrograman, Aktivitas AP-K10-01-A1
+- [[../Informatika/Flowchart AP-K10-01-A1|Flowchart AP-K10-01-A1]] Lampiran Tugas
 ## Catatan
 ---
 
