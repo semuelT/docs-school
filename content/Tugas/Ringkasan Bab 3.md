@@ -1,9 +1,9 @@
 ---
 tags:
   - Tugas
-selesai: false
-tanggal-selesai: 
-deadline: 2024-05-15
+selesai: true
+tanggal-selesai: 2024-05-22
+deadline: 2024-05-22
 mapel: Ekonomi
 ---
 > [!summary]
