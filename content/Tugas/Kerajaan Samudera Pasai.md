@@ -1,8 +1,8 @@
 ---
 tags:
   - Tugas
-selesai: false
-tanggal-selesai: 
+selesai: true
+tanggal-selesai: 2024-05-22
 deadline: 2024-05-20
 mapel: Sejarah
 ---

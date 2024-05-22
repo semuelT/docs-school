@@ -1,8 +1,8 @@
 ---
 tags:
   - Tugas
-selesai: false
-tanggal-selesai: 
+selesai: true
+tanggal-selesai: 2024-05-22
 deadline: 2024-05-20
 mapel: Matematika
 ---
@@ -11,11 +11,19 @@ mapel: Matematika
 # Tujuan
 - Mempelajari dan Memahami Persamaan Kuadrat.
 ## Tugas Tugas
-- [ ] Cari materi
+- [x] Cari materi
 - [ ] Buat video
 ## Lampiran
 - [Lampiran](https://google.com)
 ## Catatan
 ---
+# Pengertian Persamaan Kuadrat
+Bentuk umum Persamaan Kuadrat:
+$ab^2+bx+c = 0$
+Rumus mencari akar-akar persamaan kuadrat:
+$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+Dengan Rumus yang diatas kita dapat memperoleh
+- Jumlah akar akar $= -b/a$
+- Hasil kali akar akar $= c/a$
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a dui pharetra, euismod augue ac, facilisis leo. Donec volutpat nibh id nulla commodo, nec lacinia nisl cursus. Morbi aliquet efficitur quam, non pharetra magna posuere vitae. Aenean interdum nunc at neque interdum, at bibendum est sodales. Phasellus eget venenatis mi. Vivamus venenatis hendrerit justo sed venenatis. Integer scelerisque sapien nec odio malesuada venenatis. Ut a suscipit lorem. Aliquam erat volutpat. Ut purus risus, porttitor vitae interdum sit amet, sagittis id magna.
+# Contoh Contoh Soal
