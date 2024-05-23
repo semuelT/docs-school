@@ -14,8 +14,9 @@ prompt true
 ```
 > [!info] Kode Internal, Tidak penting.
 ## Tugas Tugas Belum Selesai
-| Topik | File | Selesai? | Tanggal selesai | Deadline |
-| ----- | ---- | -------- | --------------- | -------- |
+| Topik   | File                                                       | Selesai?                        | Tanggal selesai      | Deadline                     |
+| ------- | ---------------------------------------------------------- | ------------------------------- | -------------------- | ---------------------------- |
+| Biologi | <ul><li>[[Tugas/Bioteknologi.md\|Bioteknologi]]</li></ul> | <ul><li>Belum selesai</li></ul> | <ul><li>\-</li></ul> | <ul><li>2024-05-24</li></ul> |
 
 ## Tugas Tugas Selesai
 | Topik       | File                                                                             | Selesai?                  | Tanggal selesai              | Deadline                     |
