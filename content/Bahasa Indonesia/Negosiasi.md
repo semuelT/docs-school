@@ -1,6 +1,8 @@
 ---
 title: Teks Negosiasi
 mapel: Bahasa Indonesia
+tags:
+  - Catatan
 ---
 > Menurut Agnesia (2014) "Teks negosiasi merupakan teks yang berbentuk interaksi sosial yang berfungsi untuk mencari kesempatan diantara pihak-pihak yang mempunyai kepentingan berbeda."
 
