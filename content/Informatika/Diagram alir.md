@@ -1,3 +1,7 @@
+---
+tags:
+  - Catatan
+---
 # Makna setiap objek Diagram alir
 
 ## Garis Alir
