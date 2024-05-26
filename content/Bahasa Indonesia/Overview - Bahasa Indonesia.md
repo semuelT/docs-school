@@ -7,4 +7,4 @@ tags:
 # Materi Semester 1
 - [[./Negosiasi|Teks Negosiasi]]
 - [[Bahasa Indonesia/Biografi|Teks Biografi]]
-- [[Bahasa Indonesia/Puisi|Puisi]]
+- [[./Puisi|Puisi]]
