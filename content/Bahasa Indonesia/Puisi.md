@@ -62,8 +62,14 @@ Puisi adalah karya sastra yang menggunakan bahasa indah dan penuh makna untuk me
 
 **Sajadah Cinta**
 
-Sajadahmu terbentang Di atas sajadahku Cintamu tercurah Di atas cintaku
-Kita bersatu Dalam cinta Ilahi Menuju surgawi
+>Sajadahmu terbentang
+>Di atas sajadahku
+>Cintamu tercurah
+>Di atas cintaku
+
+>Kita bersatu
+>Dalam cinta Ilahi
+>Menuju surgawi
 
 **Analisis Kebahasaan:**
 
@@ -84,12 +90,12 @@ Kita bersatu Dalam cinta Ilahi Menuju surgawi
 
 **Sajadah Cinta**
 
-Sajadahmu terbentang
+>Sajadahmu terbentang
 Di atas sajadahku
 Cintamu tercurah
 Di atas cintaku
 
-Kita bersatu
+> Kita bersatu
 Dalam cinta Ilahi 
 Menuju surgawi
 
