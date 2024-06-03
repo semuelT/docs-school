@@ -2,7 +2,7 @@
 tags:
   - Catatan
 ---
-# Makna setiap objek Diagram alir
+# Makna setiap objek dalam Diagram alir
 > [!info]
 > Notasi dan Simbol Diagram alir pertama dibuat oleh ASME ([American Society of Mechanical Engineers (ASME)](https://en.wikipedia.org/wiki/American_Society_of_Mechanical_Engineers "American Society of Mechanical Engineers")) pada 1921 yang lalu distandarisasi oleh ANSI ([American National Standards Institute](https://en.wikipedia.org/wiki/American_National_Standards_Institute "American National Standards Institute")) pada 1960an. Standar internasional dibuat oleh ISO ([International Organization for Standardization](https://en.wikipedia.org/wiki/International_Organization_for_Standardization "International Organization for Standardization")) yang mengadopsi diagram alir ANSI pada 1970an. Standar diagram alir secara internasional dikenal sebagai ISO 5807 yang dipublikasi pada 1985 dan terakhir direview di 2019. 
 
