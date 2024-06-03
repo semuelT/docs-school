@@ -51,6 +51,7 @@ flowchart LR
 Digunakan untuk menghubungkan suatu titik pada diagram alir ke titik lain pada halaman yang sama.
 ## Blok Penghubung Antarhalaman
 ![[../Media/Blok Penghubung Antarhalaman.png|100x80]]
+
 Digunakan untuk menghubungkan suatu titik pada diagram alir ke titik lain pada halaman yang berbeda. Digunakan apabila diagram lain cukup kompleks sehingga tidak dapat digambar dalam satu halaman.
 # Contoh Diagram Alir
 ## Menghitung Luas Permukaan Kubus
