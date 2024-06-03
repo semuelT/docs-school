@@ -16,8 +16,7 @@
 > [!info]
 > Pseudocode dibuat untuk menutupi kekurangan diagram alir dalam merepresentasikan konsep-konsep pemrograman terstruktur. Pseudocode memungkinkan representasi langkah-langkah yang lebih detail dan dekat dengan bahasa pemrograman.
 
-> [!info]
- Baca juga [[./Diagram alir|Diagram alir]]. 
+Baca juga [[./Diagram alir|Diagram alir]]. 
 # Bahasa Pemrograman C
 >Bahasa Pemrograman C, selanjutnya disebut bahasa C saja, dikembangkan oleh Dennis M. Ritchie dan Brian W. Kernighan pada awal tahun 1970. C memiliki berbagai spesifikasi sebab sejarah yang panjangnya namun spesifikasi yang digunakan paling banyak adalah ISO 9899 yang dibuat ISO/IEC. Versi spesifikasi terbaru ISO 9899 adalah ISO 9899:2018 yang disebut C17.
 ## Proses dan Fungsi `Compile`
@@ -41,7 +40,7 @@
 ## Syntax Bahasa Pemrograman C
 ### Variabel
 > Pada matematika, kalian mengenal variabel sebagai sebuah wadah untuk menyimpan suatu nilai. Variabel pada program memiliki fungsi yang sama. Nilai yang diberikan pada sebuah variabel akan disimpan di memori komputer.
-```C
+```c
 // Variabel dalam C memiliki bentuk 
 // <tipe_data> <nama_variabel> = <nilai_awal> (Nilai awal opsional).
 int totalHarga = 100;
@@ -51,13 +50,13 @@ int apakahTua;
 ```
 ### Konstanta
 >Berbeda dengan variabel yang nilainya dapat berubah, konstanta tidak dapat diubah. Saat dideklarasikan, nilai dari konstanta diberikan dan tidak dapat diubah kembali.
-```C
+```c
 // Cara menulis konstanta sama dengan variabel namun tambahkan `const` didepan.
 const float PI = 3.14;
 ```
 ### `printf()` dan `scanf()`
 #### `printf()`
-```C
+```c
 printf() // Berfungsi untuk mengirimkan output yang diformat (teks) ke konsol (output standar)
 // Contoh
 include <stdio.h>
@@ -70,7 +69,7 @@ int main() {
 "Halo, saya berusia 30 tahun.";
 ```
 #### `scanf()`
-```C
+```c
 scanf() // Berfungsi untuk membaca input dari input standar (biasanya keyboard)
 // Contoh
 include <stdio.h>
