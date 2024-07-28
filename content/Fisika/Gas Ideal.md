@@ -36,7 +36,7 @@ $$
 \end{flalign}
 $$
 ## Hukum Charles
->		Jacques Alexandre César Charles (1746 – 1823), seorang ilmuwan asal Prancis, mempelajari tentang hubungan volume gas (V) dan suhu (T) pada keadaan tertentu.
+>Jacques Alexandre César Charles (1746 – 1823), seorang ilmuwan asal Prancis, mempelajari tentang hubungan volume gas (V) dan suhu (T) pada keadaan tertentu.
 
 Charles menemukan bahwa pada tekanan dan jumlah mol konstan,
 volume gas berbanding lurus dengan suhu mutlak. Secara matematis hukum
