@@ -16,11 +16,12 @@ $$
 ∆U = Q - W
 $$
 $$
-\begin{align}
+\begin{flalign}
 &∆U = \text{perubahan energi dalam sistem (kal atau J)} \\
 &Q = \text{kalor (kal atau J)} \\
 &W = \text{usaha (kal atau J)}
-\end{align}$$
+\end{flalign}
+$$
 
 Usaha dan kalor bertanda negatif jika usaha dilakukan oleh sistem dan kalor diambil dari sistem. Usaha dan kalor bertanda positif jika usaha dilakukan pada sistem dan kalor diberikan pada sistem. Persamaan ini menunjukkan bahwa perubahan energi internal sistem sama dengan panas yang ditambahkan ke sistem dikurangi kerja yang dilakukan oleh sistem. Ini berarti bahwa energi tidak dapat diciptakan atau dimusnahkan, tetapi hanya dapat diubah dari satu bentuk ke bentuk lainnya.
 ## Proses Spontan
@@ -28,11 +29,14 @@ Proses spontan disebut juga proses ireversibel atau proses satu arah. Sedangkan 
 Proses spontan menunjukkan bahwa suatu peristiwa terjadi dalam arah tertentu dan berkaitan dengan suatu besaran isika yang disebut sebagai entropi.
 # Hukum Kedua Termodinamika 
 Hukum II Termodinamika menyatakan bahwa pada proses spontan (proses ireversibel) entropi dalam sistem terisolir bertambah. Perubahan entropi (∆S) dalam suatu proses yang terjadi pada suhu (T) dinyatakan sebagai: 
-$$\begin{align}
+$$
+\begin{flalign}
 &∆S = \frac{Q}{T} \\
 &Q = \text{kalor yang diterima oleh sistem (bertanda positif)}\\ 
 &\text{dan kalor yang dilepaskan oleh sistem (bertanda negatif) (J)} \\ 
-&T = \text{suhu (K)}\end{align}$$
+&T = \text{suhu (K)}
+\end{flalign}
+$$
 > Pemahaman lain tentang entropi adalah entropi merupakan ukuran ketidakteraturan suatu sistem.
 
 Hukum II Termodinamika menyatakan bahwa entropi dari suatu sistem yang terisolir tidak pernah berkurang. Sistem terisolir dapat berupa jagad raya yang terdiri atas suatu sistem dan lingkungan. Perubahan entropi total dapat ditinjau dalam proses reversibel dan proses ireversibel.
