@@ -19,25 +19,31 @@ ukuran energi kinetik rata-rata dari molekul-molekul gas.
 Hukum Boyle menyatakan bahwa hasil kali antara tekanan dan volume
 adalah suatu bilangan konstan pada suhu dan jumlah mol tetap atau bisa
 dituliskan sebagai berikut.
-$$ \begin{align}
-&pV= \text{konstan} 
-\\&\text{pada suhu dan jumlah mol tetap}
-\end{align}$$
+$$
+\begin{gather}
+pV= \text{konstan} 
+\\\text{pada suhu dan jumlah mol tetap}
+\end{gather}
+$$
 Jadi untuk dua keadaan gas yang berbeda, maka berlaku persamaan seperti di bawah ini.
-$$\begin{align}
-&p_1V_1 = p_2V_2
-\\&\text{Dengan } p_1\text{ = tekanan gas mula-mula } (atm, cmHg, N/m^2, Pa),
-\\&p_2 \text{= tekanan gas akhir}  (atm, cmHg, N/m^2, Pa),
-\\&V_1 \text{= volume gas mula-mula } (m^3, cm^3),
-\\&V_2 \text{= volume gas akhir } (m^3, cm^3).
-\end{align}$$
+$$
+\begin{gather}
+p_1V_1 = p_2V_2
+\\\text{Dengan } p_1\text{ = tekanan gas mula-mula } (atm, cmHg, N/m^2, Pa),
+\\p_2 \text{= tekanan gas akhir}  (atm, cmHg, N/m^2, Pa),
+\\V_1 \text{= volume gas mula-mula } (m^3, cm^3),
+\\V_2 \text{= volume gas akhir } (m^3, cm^3).
+\end{gather}
+$$
 ## Hukum Charles
 >Jacques Alexandre César Charles (1746 – 1823), seorang ilmuwan asal Prancis, mempelajari tentang hubungan volume gas (V) dan suhu (T) pada keadaan tertentu.
 
 Charles menemukan bahwa pada tekanan dan jumlah mol konstan,
 volume gas berbanding lurus dengan suhu mutlak. Secara matematis hukum
 Charles dapat dituliskan sebagai berikut.
-$$\frac{V}{T} = \text{konstan}$$
+$$
+\frac{V}{T} = \text{konstan}
+$$
 Untuk dua keadaan gas yang berbeda, maka berlaku persamaan seperti berikut ini.
 $$
 \frac{V_1}{T_1} = \frac{V_2}{T_2}
@@ -87,13 +93,14 @@ Hukum gas ideal atau persamaan gas ideal diperoleh dengan
 menggabungkan hukum-hukum gas (Hukum Boyle,
 Hukum Charles, Hukum Gay-Lussac, dan Hukum Avogadro). Persamaan gas
 ideal diberikan oleh.
-$$\begin{align} 
-&pV=nRT \\
-&\text{Dengan: } \\
-&p = \text{tekanan mutlak pada gas } (Pa) \\
-&V = \text{volume }(m^3) \\
-&n = \text{jumlah partikel pada gas }(mol) \\
-&T = \text{suhu }(K) \\
-&R = 8.314472J*K^{-1}*mol^{-1}
-\end{align}
+$$
+\begin{gather} 
+pV=nRT \\
+\text{Dengan: } \\
+p = \text{tekanan mutlak pada gas } (Pa) \\
+V = \text{volume }(m^3) \\
+n = \text{jumlah partikel pada gas }(mol) \\
+T = \text{suhu }(K) \\
+R = 8.314472J*K^{-1}*mol^{-1}
+\end{gather}
 $$
