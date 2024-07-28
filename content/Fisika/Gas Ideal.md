@@ -27,13 +27,13 @@ pV= \text{konstan}
 $$
 Jadi untuk dua keadaan gas yang berbeda, maka berlaku persamaan seperti di bawah ini.
 $$
-\begin{gather}
-p_1V_1 = p_2V_2
-\\\text{Dengan } p_1\text{ = tekanan gas mula-mula } (atm, cmHg, N/m^2, Pa),
-\\p_2 \text{= tekanan gas akhir}  (atm, cmHg, N/m^2, Pa),
-\\V_1 \text{= volume gas mula-mula } (m^3, cm^3),
-\\V_2 \text{= volume gas akhir } (m^3, cm^3).
-\end{gather}
+\begin{flalign}
+&p_1V_1 = p_2V_2 &&
+\\&\text{Dengan } p_1\text{ = tekanan gas mula-mula } (atm, cmHg, N/m^2, Pa),
+\\&p_2 \text{= tekanan gas akhir}  (atm, cmHg, N/m^2, Pa),
+\\&V_1 \text{= volume gas mula-mula } (m^3, cm^3),
+\\&V_2 \text{= volume gas akhir } (m^3, cm^3).
+\end{flalign}
 $$
 ## Hukum Charles
 >Jacques Alexandre César Charles (1746 – 1823), seorang ilmuwan asal Prancis, mempelajari tentang hubungan volume gas (V) dan suhu (T) pada keadaan tertentu.
