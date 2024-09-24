@@ -20,20 +20,20 @@ Hukum Boyle menyatakan bahwa hasil kali antara tekanan dan volume
 adalah suatu bilangan konstan pada suhu dan jumlah mol tetap atau bisa
 dituliskan sebagai berikut.
 $$
-\begin{gather}
-pV= \text{konstan} 
-\\\text{pada suhu dan jumlah mol tetap}
-\end{gather}
+\begin{flalign}
+&pV= \text{konstan} 
+\\&\text{pada suhu dan jumlah mol tetap}
+\end{flalign}
 $$
 Jadi untuk dua keadaan gas yang berbeda, maka berlaku persamaan seperti di bawah ini.
 $$
-\begin{gather}
-p_1V_1 = p_2V_2
-\\\text{Dengan } p_1\text{ = tekanan gas mula-mula } (atm, cmHg, N/m^2, Pa),
-\\p_2 \text{= tekanan gas akhir}  (atm, cmHg, N/m^2, Pa),
-\\V_1 \text{= volume gas mula-mula } (m^3, cm^3),
-\\V_2 \text{= volume gas akhir } (m^3, cm^3).
-\end{gather}
+\begin{flalign}
+&p_1V_1 = p_2V_2 &&
+\\&\text{Dengan } p_1\text{ = tekanan gas mula-mula } (atm, cmHg, N/m^2, Pa),
+\\&p_2 \text{= tekanan gas akhir}  (atm, cmHg, N/m^2, Pa),
+\\&V_1 \text{= volume gas mula-mula } (m^3, cm^3),
+\\&V_2 \text{= volume gas akhir } (m^3, cm^3).
+\end{flalign}
 $$
 ## Hukum Charles
 >Jacques Alexandre César Charles (1746 – 1823), seorang ilmuwan asal Prancis, mempelajari tentang hubungan volume gas (V) dan suhu (T) pada keadaan tertentu.
@@ -94,13 +94,13 @@ menggabungkan hukum-hukum gas (Hukum Boyle,
 Hukum Charles, Hukum Gay-Lussac, dan Hukum Avogadro). Persamaan gas
 ideal diberikan oleh.
 $$
-\begin{gather} 
-pV=nRT \\
-\text{Dengan: } \\
-p = \text{tekanan mutlak pada gas } (Pa) \\
-V = \text{volume }(m^3) \\
-n = \text{jumlah partikel pada gas }(mol) \\
-T = \text{suhu }(K) \\
-R = 8.314472J*K^{-1}*mol^{-1}
-\end{gather}
+\begin{flalign} 
+&pV=nRT \\
+&\text{Dengan: } \\
+&p = \text{tekanan mutlak pada gas } (Pa) \\
+&V = \text{volume }(m^3) \\
+&n = \text{jumlah partikel pada gas }(mol) \\
+&T = \text{suhu }(K) \\
+&R = 8.314472J*K^{-1}*mol^{-1}
+\end{flalign}
 $$
