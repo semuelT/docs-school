@@ -7,4 +7,5 @@ tags:
 
 # [[./Gas Ideal|Gas Ideal]]
 # [[./Hukum Termodinamika|Hukum Termodinamika]]
-# [[Proses Termodinamika|Proses Termodinamika]]
+# [[./Sistem Termodinamika|Sistem Termodinamika]]
+# [[./Penerapan Termodinamika|Penerapan Termodinamika]]
