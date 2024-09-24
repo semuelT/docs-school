@@ -1,3 +1,7 @@
+---
+tags:
+  - Overview
+---
 >[!info]
 >Ini adalah halaman indeks mata pelajaran Informatika
 
