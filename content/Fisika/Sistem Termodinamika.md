@@ -6,7 +6,7 @@ Sistem termodinamika merupakan suatu ruang terbatas atau sejumlah materi berupa 
 Sistem termodinamika dapat berubah ukurannya, artinya dapat
 mempunyai batas yang diam atau bergerak.
 ## Sifat-sifat sistem termodinamika
-Sistem termodinamika memiliki sifat-sifat termodinamika yang bersifat mak-
+Sistem termodinamika memiliki sifat-sifat termodinamika yang bersifat mak
 ro, yang dapat dijelaskan secara mikroskopis. Suhu, tekanan, dan volume gas menunjukkan sifat gas. Sifat ini mempunyai nilai tertentu atau variabel keadan pada keadaan tertentu sehingga tekanan (p), suhu (T), dan volume (V) merupakan variabel-variabel keadaan.
 
 Sifat-sifat sistem dapat diukur baik langsung maupun tidak langsung pada
